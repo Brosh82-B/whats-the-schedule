@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brosh82-B/whats-the-schedule/static/css/main.3b14c9b9.css",
+    "main.js": "/Brosh82-B/whats-the-schedule/static/js/main.3ba4b66a.js",
+    "index.html": "/Brosh82-B/whats-the-schedule/index.html",
+    "main.3b14c9b9.css.map": "/Brosh82-B/whats-the-schedule/static/css/main.3b14c9b9.css.map",
+    "main.3ba4b66a.js.map": "/Brosh82-B/whats-the-schedule/static/js/main.3ba4b66a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b14c9b9.css",
+    "static/js/main.3ba4b66a.js"
+  ]
+}
