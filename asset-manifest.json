@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/whats-the-schedule/static/css/main.3b14c9b9.css",
-    "main.js": "/whats-the-schedule/static/js/main.3ba4b66a.js",
+    "main.js": "/whats-the-schedule/static/js/main.a9c66eb4.js",
     "index.html": "/whats-the-schedule/index.html",
     "main.3b14c9b9.css.map": "/whats-the-schedule/static/css/main.3b14c9b9.css.map",
-    "main.3ba4b66a.js.map": "/whats-the-schedule/static/js/main.3ba4b66a.js.map"
+    "main.a9c66eb4.js.map": "/whats-the-schedule/static/js/main.a9c66eb4.js.map"
   },
   "entrypoints": [
     "static/css/main.3b14c9b9.css",
-    "static/js/main.3ba4b66a.js"
+    "static/js/main.a9c66eb4.js"
   ]
 }
